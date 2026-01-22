@@ -1,3 +1,4 @@
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dashboard-service-desk-p2dvctuypxogxhksmldae7.streamlit.app/)
 # Dashboard Service Desk Performance
 
 Este projeto apresenta um Dashboard interativo para análise de indicadores de performance (KPIs) de uma operação de Service Desk, desenvolvido com **Python** e **Streamlit**.
